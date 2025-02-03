@@ -1,6 +1,6 @@
 // import content
 import { content } from "../Content";
-import file from "../assets/pdf/CV_WASIB-ILYAS.pdf";
+import file from "../assets/pdf/Resume_Final_2025.pdf";
 
 const Hero = () => {
   const { hero } = content;

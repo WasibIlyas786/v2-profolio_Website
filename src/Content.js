@@ -10,6 +10,7 @@ import graphQL from "./assets/images/Skills/graphQL.png";
 import expressJS from "./assets/images/Skills/expressJS.png";
 import mongoDB from "./assets/images/Skills/mongoDB.png";
 import python from "./assets/images/Skills/python.png";
+import aws_logo from "./assets/images/Skills/aws_logo.png"
 
 import services_logo1 from "./assets/images/Services/logo1.png";
 import services_logo2 from "./assets/images/Services/logo2.png";
@@ -67,11 +68,11 @@ export const content = {
     image: Hero_person,
     hero_content: [
       {
-        count: "3+",
-        text: "Years of Experience in Web development",
+        count: "4+",
+        text: "Years of Experience in Software Engineering",
       },
       {
-        count: "12+",
+        count: "14+",
         text: "Projects Worked in my career",
       },
     ],
@@ -195,6 +196,15 @@ export const content = {
           "Capable of optimizing MongoDB queries for improved performance.",
         point5:
           "Knowledgeable in utilizing MongoDB's Aggregation Framework for complex data analysis.",
+      },{
+        name: "AWS Cloud Essentials",
+        para: "Mastering AWS Basics",
+        logo: aws_logo,
+        point1: "Proficient in core AWS services, including EC2, S3, RDS, and IAM.",
+        point2: "Understanding of AWS architecture, scalability, and security best practices.",
+        point3: "Experienced in managing cloud resources using AWS Management Console and CLI.",
+        point4: "Knowledge of AWS pricing models, cost optimization, and billing strategies.",
+        point5: "Familiar with cloud automation, monitoring, and deployment using AWS tools.",
       },
       {
         name: "GraphQL",

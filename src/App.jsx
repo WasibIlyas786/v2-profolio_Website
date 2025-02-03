@@ -31,7 +31,7 @@ const App = () => {
       <Contact />
       <footer className="p-3 text-center">
         <h6 className="mb-3">WASIB ILYAS</h6>
-        <p>visionlabs © All CopyRights Reserved 2023</p>
+        <p>Crafted with Love and Passion by Wasib.</p>
       </footer>
     </div>
   );
